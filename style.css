@@ -17,7 +17,7 @@
         }
         .brand{display:flex; align-items:center; gap:12px; text-decoration:none; color:inherit;}
         .logo{
-            width:44px; height:44px; border-radius:10px; background:linear-gradient(135deg,var(--accent),#7c3aed);
+            width:44px; height:44px; border-radius:10px; background:linear-gradient(135deg,var(--accent),#50ca1c);
             display:flex; align-items:center; justify-content:center; font-weight:700; color:#021018; font-size:18px;
         }
         nav{display:flex; gap:12px; align-items:center;}
